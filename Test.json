@@ -1,0 +1,24 @@
+{
+    "item": [
+        {
+            "text": "afsaetning",
+            "value": 150
+        },
+        {
+            "text": "ordre",
+            "value": 250
+        },
+        {
+            "text": "kunde",
+            "value": 125
+        },
+        {
+            "text": "adress",
+            "value": 200
+        },
+        {
+            "text": "produkt",
+            "value": 100
+        }
+    ]
+}
